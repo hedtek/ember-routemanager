@@ -3,6 +3,7 @@
 Ember routemanager packaged for the rails asset pipeline.
 
 Original routemanager package is here: https://github.com/ghempton/ember-routemanager
+
 Commit d6bf04c289f34caeb63f70a0666b241f1638776e
 
 ## Installation
