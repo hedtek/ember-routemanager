@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["gems@hedtek.com"]
   gem.description   = %q{Ember routemanager for rails asset pipeline}
   gem.summary       = %q{Ember routemanager for rails asset pipeline}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/hedtek/ember-routemanager"
 
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   gem.files         = `git ls-files`.split("\n")
