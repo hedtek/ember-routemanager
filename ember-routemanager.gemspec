@@ -3,7 +3,7 @@ require File.expand_path('../lib/ember-routemanager/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ["David Workman", "Hedtek Ltd."]
-  gem.email         = ["david@hedtek.com"]
+  gem.email         = ["gems@hedtek.com"]
   gem.description   = %q{Ember routemanager for rails asset pipeline}
   gem.summary       = %q{Ember routemanager for rails asset pipeline}
   gem.homepage      = ""
